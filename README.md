@@ -142,7 +142,7 @@ MIT License – open source for hackathons, education, and prototype development
 
 * Inspired by DeFi protocols and cross-chain lending systems.
 * Mezo Hackathon demo project for showcasing blockchain integrations.
-* Built with ❤️ using React, Wagmi, ViEM, and QR code technology.
+* Built with love using React, Wagmi, ViEM, and QR code technology.
 
 
 
