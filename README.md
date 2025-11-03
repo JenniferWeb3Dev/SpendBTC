@@ -1,4 +1,4 @@
-# SpendBTC Frontend
+# SpendBTC 
 
 **SpendBTC** is a cross-chain decentralized app (dApp) allowing users to use Bitcoin (BTC) as collateral to borrow a stablecoin called **MUSD**, make payments via QR code, and manage their vault positions. The app connects to both Sepolia testnet and Mezo mainnet for demonstration purposes.
 
